@@ -17,9 +17,9 @@ I studied full-stack engineering at the Makers Academy bootcamp. The course focu
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
 |[Sneaker Seeker][1]|Group project, a web app that suggests new footwear options for sneaker enthusiasts|10 Days|React, Express, Javascript|
-|[Acebook][2]|Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them. Sign up, log in and log out feature|10 Days|Ruby, Rails, Postgres /w ActiveRecord, HTML, CSS, RSPec, Capybara|
+|[Acebook][2]|Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them. Sign up, log in and log out feature|10 Days|Ruby, Rails, Postgres /w ActiveRecord, HTML, CSS, RSpec, Capybara|
 |[Sunrise B'n'B][3]|Group project. A clone of Airbnb, with finished features include listing and managing bookings|5 Days|Ruby, Sinatra, PostgreSQL, HTML, CSS, RSpec|
-|[Chitter][4]|Solo weekend project building a Twitter-like web app including being able to view and post tweets|1.5 Days|Ruby, Postgres /w ActiveRecord, HTML, CSS, RSPec, Capybara|
+|[Chitter][4]|Solo weekend project building a Twitter-like web app including being able to view and post tweets|1.5 Days|Ruby, Postgres /w ActiveRecord, HTML, CSS, RSpec, Capybara|
 |[Notes app][5]|An app for note taking and storing|2.5 Days|JavaScript, Jasmine, Postgres /w ActiveRecord|
 
 
