@@ -24,7 +24,7 @@ I studied full-stack engineering at the Makers Academy bootcamp. The course focu
 
 
 [1]:https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo
-[2]:https://github.com/KeldraSJ/acebook-runtime-terror
+[2]:https://github.com/InfobyAdrienne/acebook-challenge
 [3]:https://github.com/Ifrahhssn/makersbnb-sunrise-collective
 [4]:https://github.com/InfobyAdrienne/chitter-challenge
 [5]:https://github.com/InfobyAdrienne/notes-app-JS-AG
