@@ -23,7 +23,7 @@ I studied full-stack engineering at the Makers Academy bootcamp. The course focu
 |[Notes app][5]|An app for note taking and storing|2.5 Days|JavaScript, Jasmine, Postgres /w ActiveRecord|
 
 
-[1]:https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo
+[1]:https://github.com/InfobyAdrienne/sneaker_seeker_frontend_lm_ag2 
 [2]:https://github.com/InfobyAdrienne/acebook-challenge
 [3]:https://github.com/InfobyAdrienne/makersbnb-sunrise-collective
 [4]:https://github.com/InfobyAdrienne/chitter-challenge
