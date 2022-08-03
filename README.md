@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adrienne! Welcome to my GitHub CV</h1>
 
-<h3 align="center">Previously a Public Relations Manager. Now a Full-Stack Developer. </h3>
+<h3 align="center">Previously a Public Relations Manager. Now a Software Engineer. </h3>
 
 Over the past few years I’ve been working hand in hand with consumer tech and lifestyle startups to tell their stories via the media. Working with companies like the dating app Hinge and the electric vertical take-off and landing aircraft Lilium, I’ve seen how companies are marketing themselves to consumers and addressing the problems that their audiences have. I hope to use software engineering to do the same for users. 
 
