@@ -27,7 +27,7 @@ I studied full-stack engineering at the Makers Academy bootcamp. The course focu
 [2]:https://github.com/InfobyAdrienne/acebook-challenge
 [3]:https://github.com/InfobyAdrienne/makersbnb-sunrise-collective
 [4]:https://github.com/InfobyAdrienne/chitter-challenge
-[5]:https://github.com/InfobyAdrienne/notes-app-JS-AG
+[5]:https://github.com/InfobyAdrienne/notesapp
 
 ### 💻 Coding credentials
 <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy, November 2021</em>
