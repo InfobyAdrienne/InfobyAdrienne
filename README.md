@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Adrienne! Welcome to my GitHub CV</h1>
 
-<h3 align="center">Previously a Public Relations Manager. Now a Software Engineer. </h3>
+<h3 align="center">Early-Career Engineer Exploring DevOps & Backend Systems</h3>
 
-Over the past few years I’ve been working hand in hand with consumer tech and lifestyle startups to tell their stories via the media. Working with companies like the dating app Hinge and the electric vertical take-off and landing aircraft Lilium, I’ve seen how companies are marketing themselves to consumers and addressing the problems that their audiences have. I hope to use software engineering to do the same for users. 
-
+I am a dedicated professional with a strong background in client-facing account management, specialising in helping businesses effectively communicate their narratives to stakeholders. I have had the opportunity to gain technical expertise and currently sit in a TechOps role. My goal is to deliver value-driven software solutions that meet stakeholder requirements and drive meaningful outcomes.
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> </p>
@@ -11,8 +10,6 @@ Over the past few years I’ve been working hand in hand with consumer tech and 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ### 🛠 Web development projects
-
-I studied full-stack engineering at the Makers Academy bootcamp. The course focused on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
@@ -29,7 +26,19 @@ I studied full-stack engineering at the Makers Academy bootcamp. The course focu
 [4]:https://github.com/InfobyAdrienne/chitter-challenge
 [5]:https://github.com/InfobyAdrienne/notesapp
 
-### 💻 Coding credentials
+### 💼 Engineering and DevOps experience
+
+<strong>TechOps Engineer, Container Solutions</strong>, <em>May 2024 - Current</em><br>
+ * <i>Container Solutions is a consultancy specialising in providing services and solutions related to cloud native technologies</i>
+ * IT lead driving core business systems and services, with a focus on lean operations, performance reporting, and strategic alignment. Experienced in managing Google Workspace and Microsoft 365 with an emphasis on security, compliance, and productivity. Skilled in optimizing cloud platforms (AWS, Azure, GCP) for secure and cost-effective use. Known for delivering process improvements, automation solutions, and empathetic technical support to enable smooth day-to-day operations.
+
+<strong>Cloud Native Engineer, Container Solutions</strong>, <em>Apr 2022 - Apr 2024</em><br>
+ * Hands-on experience in DevOps and cloud technologies including Kubernetes, Docker, AWS, GCP, Terraform, and CI/CD. Worked on GKE to support Google Kf feature development and issue resolution. At Inditex, modernised warehouse applications with CI/CD pipelines (GitHub Actions, Spinnaker) and zero-downtime deployment strategies on OpenShift. Built infrastructure for a Kubernetes operator to manage external secrets using Terraform and scripting tools.
+
+### 🏆 Certifications
+ * AWS Certified Cloud Practitioner (valid until 2027)
+
+### 🎓 Training / Courses
 <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy, November 2021</em>
  * Designed and built web applications primarily in Ruby and JavaScript, with emphasis placed on self-led learning to becoming tech-agnostic and able to learn new languages in short timeframes 
  * Collaborated in Agile teams with  a focus on XP values, pair programming and Git workflow 
@@ -38,7 +47,7 @@ I studied full-stack engineering at the Makers Academy bootcamp. The course focu
 <strong>Introduction to Software Engineering</strong>, <em>SheCodes, July 2020</em>
  * A three week introductory course on designing with one final project to design and build a website of your choice, primarily using JavaScript, HTML and CSS
 
-### ⚙️ Where I've worked
+### ⚙️ Other professional experience
 
  * <strong>Senior Account Executive -> Account Manager</strong>, <em>Rebecca Abigail (Public Relations Agency)</em>
     -  This role including running PR campaigns for several different clients to get them high quality media attention. My client roster included Sweet Capital, Hambro Perks, Social Chain, Lilium, Hinge, what3words, atai Life Sciences, 4.5.6 Skin and more. One of my most recent achievements to date was working with Sweet Capital, the London-based venture firm by the creators of Candy Crush, and Peabody Award winning spoken-word artist George The Poet to promote a video exposing the realities of life as an entrepreneur, titled: ‘It Could Be For You’. I secured online coverage with Forbes and Business Insider, as well as two prime time interview slots on Sky News and ITV News, and a profile interview in Vanity Fair. 
@@ -46,12 +55,6 @@ I studied full-stack engineering at the Makers Academy bootcamp. The course focu
    - Finsbury is a global leader in public relations and a trusted adviser to some of the world’s most successful companies, institutions and organisations. My role included supporting account management for a broad range of established companies, with past clients including Aviva, Volkswagen, Rio Tinto, Walmart, easyJet and more. We would help clients prepare for important announcements that affect the public perception of their businesss, for example announcing a new CEO within a FTSE 100 company, which can ultimately have an impact on the company share price. 
  * <strong>PR Trainee</strong>, <em>Taylor Bennett Foundation</em>
    - Work-based PR programme that offers professional training in media and communications. I worked with a variety of financial, technology and consumer communications agencies as part of the training scheme and ultimately landed a job at Finsbury, who were sponsoring the programme. 
- * <strong>GCSE Mathematics Tutor</strong>, <em>Tutor Trust</em>
-   - While still a student I was conducting 3:1 tuition within local schools as a part of a not-for-profit social enterprise with the aim of reducing the attainment gap in education. This involved having excellent time planning and goal setting skills. I had to create effective lesson plans to cater to each pupils learning needs in preparation for their exams.  
- * <strong>Customer Executive</strong>, <em>Mercedes-Benz Financial Services</em>
-   - Promoting loyalty to the luxury car brand by providing high level customer service. Showing integrity and compliance to the Financial Conduct Authority (FCA) whilst managing multiple responsibilities and adapting promptly to changing policies.
- * <strong>Camp Counsellor</strong>, <em>Girl Scouts Camp Hoffman, Rhode Island, USA</em>
-   - Taking responsibility for the general safety and wellbeing of campers aged between 6 and 15, including recognising and catering to the needs of campers with special circumstances. I showcased creativity and flexibility in the scheduling and implementing of activities for each new intake of campers, including being open-minded in leading activites previously not tried before, such as climbing, kayaking and canoeing. 
 
 ### 🚲 Skills 
 
