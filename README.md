@@ -13,6 +13,7 @@ I am a dedicated professional with a strong background in client-facing account 
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
+| [Nextcloud AWS][6] | Deployed a self-hosted instance of Nextcloud on AWS using Terraform to provision infrastructure including a VPC, security groups, EC2 instance, and EBS volume for persistent storage. The setup automates the installation and configuration of Nextcloud through EC2 user_data scripts, focusing on infrastructure-as-code principles and secure access. This project highlights skills in Terraform, AWS resource management, Linux server provisioning, and deploying real-world open-source applications in the cloud.|One week| Terraform, AWS (EC2, VPC, Security Groups, EBS), Bash|
 |[Sneaker Seeker][1]|Group project, a web app that suggests new footwear options for sneaker enthusiasts|10 Days|React, Express, Javascript|
 |[Acebook][2]|Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them. Sign up, log in and log out feature|10 Days|Ruby, Rails, Postgres /w ActiveRecord, HTML, CSS, RSpec, Capybara|
 |[Sunrise B'n'B][3]|Group project. A clone of Airbnb, with finished features include listing and managing bookings|5 Days|Ruby, Sinatra, PostgreSQL, HTML, CSS, RSpec|
@@ -25,6 +26,7 @@ I am a dedicated professional with a strong background in client-facing account 
 [3]:https://github.com/InfobyAdrienne/makersbnb-sunrise-collective
 [4]:https://github.com/InfobyAdrienne/chitter-challenge
 [5]:https://github.com/InfobyAdrienne/notesapp
+[6]: https://github.com/InfobyAdrienne/terraform-aws-nextcloud.git
 
 ### 💼 Engineering and DevOps experience
 
